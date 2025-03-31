@@ -1,0 +1,21 @@
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# Screenshots
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+
+# Keep screenshots directory
+!screenshots/.gitkeep 
